@@ -2,7 +2,7 @@
 
 Hi! I'm **Sri Manohar Kumanduri** from Andhra Pradesh, India.
 
-I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and on a mission to become a **Data Analyst by July 2026**. This repo is my daily practice log — proof of every hour I've put in.
+I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and on a mission to become a **Data Analyst by September 2026**. This repo is my daily practice log — proof of every hour I've put in.
 
 ---
 
@@ -22,8 +22,8 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 ## 📅 Daily Commitment
 
-- ✅ 1 Scaler class per day
-- ✅ 8 problems per day (Assignments + Additional Problems)
+- ✅ 3 Scaler class per week
+- ✅ 6 problems per day (Assignments + Additional Problems)
 - ✅ Push to GitHub every single day
 - ✅ Never miss two days in a row
 
@@ -32,7 +32,6 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 ## 📁 Folder Structure
 
 📂 SQL/ → Daily SQL problems & solutions (active now)
-📂 Resources/ → Useful links, cheat sheets & notes
 
 *More folders will be added as I progress through each module.*
 
@@ -42,13 +41,13 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 | Month | Days Active | Problems Solved | Status |
 |-------|------------|-----------------|--------|
-| March 2026 | 0/13 | 0 | 🟡 In Progress |
+| March 2026 | 1/12 | 6 | 🟡 In Progress |
 | April 2026 | 0/30 | 0 | ⬜ Upcoming |
 | May 2026 | 0/31 | 0 | ⬜ Upcoming |
 | June 2026 | 0/30 | 0 | ⬜ Upcoming |
 | July 2026 | 0/31 | 0 | ⬜ Upcoming |
 | August 2026 | 0/31 | 0 | ⬜ Upcoming |
-| September 2026 | 0/30 | 0 | ⬜ Upcoming |
+| September 2026 | 0/15 | 0 | ⬜ Upcoming |
 
 ---
 
@@ -68,9 +67,9 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 ---
 
-## 🔥 Current Streak: Day 0
+## 🔥 Current Streak: Day 1
 
-*Tomorrow it becomes Day 1.*
+*Started: March 20, 2026. No looking back.*
 
 ---
 
