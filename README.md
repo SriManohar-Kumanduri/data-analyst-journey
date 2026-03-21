@@ -22,8 +22,8 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 ## 📅 Daily Commitment
 
-- ✅ 3 Scaler class per week
-- ✅ 6 problems per day (Assignments + Additional Problems)
+- ✅ Attend Scaler class daily
+- ✅ Solve problems daily (Assignments + Additional)
 - ✅ Push to GitHub every single day
 - ✅ Never miss two days in a row
 
@@ -41,7 +41,7 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 | Month | Days Active | Problems Solved | Status |
 |-------|------------|-----------------|--------|
-| March 2026 | 1/12 | 6 | 🟡 In Progress |
+| March 2026 | 2/12 | 10 | 🟡 In Progress |
 | April 2026 | 0/30 | 0 | ⬜ Upcoming |
 | May 2026 | 0/31 | 0 | ⬜ Upcoming |
 | June 2026 | 0/30 | 0 | ⬜ Upcoming |
@@ -67,7 +67,7 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 ---
 
-## 🔥 Current Streak: Day 1
+## 🔥 Current Streak: Day 2
 
 *Started: March 20, 2026. No looking back.*
 
