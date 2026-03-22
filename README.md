@@ -41,7 +41,7 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 | Month | Days Active | Problems Solved | Status |
 |-------|------------|-----------------|--------|
-| March 2026 | 2/12 | 10 | 🟡 In Progress |
+| March 2026 | 3/12 | 12 | 🟡 In Progress |
 | April 2026 | 0/30 | 0 | ⬜ Upcoming |
 | May 2026 | 0/31 | 0 | ⬜ Upcoming |
 | June 2026 | 0/30 | 0 | ⬜ Upcoming |
@@ -67,7 +67,7 @@ I'm currently pursuing **Data Science & Machine Learning at Scaler Academy** and
 
 ---
 
-## 🔥 Current Streak: Day 2
+## 🔥 Current Streak: Day 3
 
 *Started: March 20, 2026. No looking back.*
 
